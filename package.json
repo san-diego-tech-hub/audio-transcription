@@ -1,0 +1,20 @@
+{
+  "name": "audio-transcription",
+  "version": "1.0.0",
+  "description": "Transcribe Audio to Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonMGH/audio-transcription.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonMGH/audio-transcription/issues"
+  },
+  "homepage": "https://github.com/BrandonMGH/audio-transcription#readme"
+}
