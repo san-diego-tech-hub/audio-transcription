@@ -8,5 +8,9 @@ window.onload = function() {
     console.log('Sending file to audio worker...');
     const fileInput = document.querySelector('#audioFile');
     const audioFile = fileInput.files[0];
+
+    // upload to google cloud storage
+
+    // send api call with uri to google speech-to-text
   });
 }
