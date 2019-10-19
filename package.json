@@ -4,7 +4,8 @@
   "description": "Transcribe Audio to Text",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/BrandonMGH/audio-transcription/issues"
   },
-  "homepage": "https://github.com/BrandonMGH/audio-transcription#readme"
+  "homepage": "https://github.com/BrandonMGH/audio-transcription#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
